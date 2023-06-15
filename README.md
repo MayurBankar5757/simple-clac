@@ -1,2 +1,2 @@
-# simple-clac
+# simple-calculator
 simple calculator
